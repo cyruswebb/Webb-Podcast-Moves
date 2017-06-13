@@ -1,7 +1,7 @@
 # *Modern Love* The Podcast 
 
 ## What is it? 
-* *Modern Love* is a weekly 20-minute podcast which is an audio recording of the weekly essay column, of the same name, from the New York Times. In each episode an actor, actress, or celebrity reads one of the hundreds of archived Modern Love essays of their choosing.
+* *Modern Love* is a weekly 20-minute podcast which is an audio recording of the weekly essay column, of the same name, from the New York Times. In each episode an actor, actress, or celebrity reads one of the hundreds of archived *Modern Love* essays of their choosing.
 
 ## General Podcast Structure 
 * Each episode starts with a brief introduction from the host of the podcast, Meghna Chakrabarti, in which she outlines the main theme of the episode, gives some slight background on the content of the episode, and introduces the designated reader of the week’s episode. 
@@ -22,10 +22,10 @@
 
 ## The Essay: Structure 
 * Each and every week, throughout this portion of the podcast, only the voice of the celebrity reader is heard. This portion of the podcast is structured very similarly to an audiobook in that only the recorded voice of Dakota Fanning is heard. 
-* Sound effects are added in, but Dakota is basically just dramatically re-reading Natalie Lindeman’s essay. The essay itself is very narrative in nature and the extremely structured.
+* Sound effects are added in, but Dakota is basically just dramatically re-reading Natalie Lindeman’s essay. The essay itself is very narrative in nature and extremely structured.
 
 ## The Post-script
-* After a two-minute ad break, the podcast continues with Meghna Chakrabarti discussing the essay with the author of the essay, Natalie Lindeman, and the editor of the *Modern Love column, Dan Jones. The conversation goes into greater detail about the events leading up to the Natalie’s essay, what Natalie was trying to capture in writing the essay, and what has happened since her essay was published. 
+* After a two-minute ad break, the podcast continues with Meghna Chakrabarti discussing the essay with the author of the essay, Natalie Lindeman, and the editor of the *Modern Love* column, Dan Jones. The conversation goes into greater detail about the events leading up to the Natalie’s essay, what Natalie was trying to capture in writing the essay, and what has happened since her essay was published. 
 * This portion of the podcast is very conversational and seems like a lighthearted interview between Dan Jones, Meghna, and Natalie. There is clearly some structure in the questions being asked of the author, as they typically reflect the events being described in the essay, but this section of the essay remains very conversational and not all that structured. In this instance Natalie goes into greater detail about her fall, what she was trying to capture with her essay, and what happened between her and Wilder after the essay was published. 
 
 ## Sound Effects 
@@ -50,12 +50,13 @@
 * The essay is very narrative in nature, not at all that dissimilar from an audiobook, and it is pre-recorded. However, what makes this particular episode of Modern Love unique is that Cecily Strong is constantly changing the inflection of her voice throughout in order to reflect more masculine vocal qualities when reading parts of the essay in which Guzim is quoted. So, while the essay remains very narratively focused, it is powerfully read, which gives it an almost movie-like quality. 
 
 ## The Post-Script
-* After a short two-minute break, the author of the work, Julie Hogben reads a postscript; however, rather than engaging in a conversation alongside Meghna, the host, and Dan Jones, the editor, Julie simply reads a post-script aloud to the audience. The postscript sounds conversational in tone, but is clearly interview based, as it sounds like Julie is answering a set of questions which the podcast provided to her. However, we the audience have not been made aware of the specific questions which Julie is replying to, so we just hear her detailing what has happened in her life since the publication of the essay and what she was originally trying to convey in writing the essay. 
+* After a short two-minute break, the author of the work, Julie Hogben reads a postscript; however, rather than engaging in a conversation alongside Meghna, the host, and Dan Jones, the editor, Julie simply reads a post-script aloud to the audience. The postscript sounds conversational in tone, but is clearly interview based, as it sounds like Julie is answering a set of questions which the podcast provided to her. However, we the audience have not been made aware of the specific questions which Julie is replying to, so we just hear her detailing what has happened in her life since the publication of the essay and what she was originally trying to convey in writing the essay. Thus, it reads as an interview style monologue of sorts. 
 
 ## Sound Effects 
 * Just as with “The Plunge,” sound effects play a crucial role throughout “The Doorman,” giving the podcast episode.
 * At the start of the essay, a playful light jazz song plays in the opening of the episode highlighting the comical flirtation between Julie and her date due to the fact that Julie has to be home at a certain time so as not to worry her doorman. The light jazz beat makes the flirtation sequence even more awkward and funny.
 * During the scene when Julie is describing walking home from CVS to pick up a pregnancy test, the bustling of cars can be heard in the background, and when she holds up the paper bag to show Guzim you can even hear the rustling of paper. 
+* Of Course the Modern Love theme song is also present at the start and close of the podcast. 
 * These are just a couple instances of added sound effects that add another layer of emotion to the episode. 
 
 # *Modern Love* Episode 26: "One Last Swirl" 
@@ -70,7 +71,7 @@
 
 ## The Essay: Structure 
 * Similar to the last two episodes, the reading of the essay is very narrative based, and consists of Jason Alexander performing a dramatic reading of Amory Siverston’s essay. This portion of the podcast is also very structured, as the reading of the essay is pre-recorded similar to an audiobook. 
-* What makes this particular episode unique is Jason Alexander’s gift as a vocal performer. Jason is a master at dramatic pauses, and this is a characteristic that is more evident in this particular episode of *Modern Love*, than in any other episode. 
+* What makes this particular episode unique is Jason Alexander’s gift as a vocal performer. Jason is a master at dramatic pauses, and this is a characteristic that is more evident in this particular episode of *Modern Love*, than in any other episode. Jason's talent as a vocal performer gives the podcast an even more narrative based voice. 
 
 ## The Post-script 
 * The post-script for “One Last Swirl” is very similar to the conversational post-script interview of “The Plunge.” In both cases, Dan Jones and Meghna sit down alongside the author of the essay and discuss what inspired the writing of the essay and what has happened since the publication of the essay. 
